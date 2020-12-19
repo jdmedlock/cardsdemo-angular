@@ -1,4 +1,4 @@
-export const cards = [
+export const tasks = [
   {
     description: "Create a new Food Bank application",
     interestedIn: [],
